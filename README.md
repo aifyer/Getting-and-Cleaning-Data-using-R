@@ -1,6 +1,6 @@
-# Coursera - Getting and cleaning data - Course project submission
+# Getting and cleaning data 
 
-This repo contains a submission for the Coursera *Getting and cleaning data* course project. (Submitted DJ 27/3/19).
+This repo contains a submission for the  *Getting and cleaning data* course project. (Submitted DJ 27/3/19).
 The primary elements include:
 
 * **run_analysis.R** - Main script that processes input data files to tidy output data set.
